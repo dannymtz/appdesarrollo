@@ -1,0 +1,5 @@
+.grid-contenedor{
+    display: inline-grid;
+    background-color: #2196F3;
+    size: 30%;
+}
